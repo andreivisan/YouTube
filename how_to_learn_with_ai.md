@@ -2,7 +2,7 @@
 
 ## Sample prompt
 
-Make something generic out of this prompt.
+> Note: Make something generic out of this prompt.
 
 ```text
 I want you to be the George Hotz of Rust combined with Jon Gjengset. 
@@ -17,3 +17,5 @@ We will start today with:
 Jon Gjengset “Crust of Rust: Ownership & Borrowing”) 
 2. Tooling refresh (rustup, cargo, clippy, rust-analyzer;
 ```
+
+
